@@ -9,3 +9,8 @@ Pi (Product) = $\prod_{i=1}^{n} x_i$
 Integral = $\int_{a}^{b}f(x) dx$
 Limit = $\lim_{x \to\infty}\frac{1}{x}$
 Matriks = latex$\begin{pmatrix} a & b \\ c & d \end{pmatrix}$
+Kasus (Piecewise) = latex $f(x) = \begin{cases} 1 & \text{if } x \ge 0 \\ -1 & \text{if } x < 0 \end{cases}$
+Simbol Yunani (Greek Letter) = $\alpha, \beta, \gamma, \pi, \theta, \omega$
+Relasi = $>, <, \ge, \le, \neq, \approx, \equiv$
+Operasi Biner (Binary Operation) = $+, -, \times, \div, \cdot, \ast, \circ$
+Logika Matematika = $\land, \lor, \neg, \implies, \iff, \forall, \exists$
