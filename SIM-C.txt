@@ -1,0 +1,10 @@
+Berikut adalah beberapa format penulisan persamaan matematika yang umum digunakan dalam LaTeX, yang dapat Anda integrasikan ke dalam dokumen R-Markdown:
+Pangkat (Superscript) = $x^2$
+Subskrip (Subscript) = $a_i$
+Pecahan (Fractions) = $\frac{a}{b}$
+Akar Kuadrat (Square Root) = $\sqrt{x}$
+Akar ke-n (n-th Root) = $\sqrt[n]{x}$ 
+Sigma (Summation) = $\sum_{i=1}^{n} i^2$
+Pi (Product) = $\prod_{i=1}^{n} x_i$
+Integral = $\int_{a}^{b}f(x) dx$
+Limit = $\lim_{x \to\infty}\frac{1}{x}$
