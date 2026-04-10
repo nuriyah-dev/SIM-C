@@ -8,3 +8,4 @@ Sigma (Summation) = $\sum_{i=1}^{n} i^2$
 Pi (Product) = $\prod_{i=1}^{n} x_i$
 Integral = $\int_{a}^{b}f(x) dx$
 Limit = $\lim_{x \to\infty}\frac{1}{x}$
+Matriks = latex$\begin{pmatrix} a & b \\ c & d \end{pmatrix}$
